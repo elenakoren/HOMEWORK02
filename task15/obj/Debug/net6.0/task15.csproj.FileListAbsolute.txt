@@ -1,0 +1,15 @@
+/Users/admin/Desktop/Homework2/task15/bin/Debug/net6.0/task15
+/Users/admin/Desktop/Homework2/task15/bin/Debug/net6.0/task15.deps.json
+/Users/admin/Desktop/Homework2/task15/bin/Debug/net6.0/task15.runtimeconfig.json
+/Users/admin/Desktop/Homework2/task15/bin/Debug/net6.0/task15.dll
+/Users/admin/Desktop/Homework2/task15/bin/Debug/net6.0/task15.pdb
+/Users/admin/Desktop/Homework2/task15/obj/Debug/net6.0/task15.csproj.AssemblyReference.cache
+/Users/admin/Desktop/Homework2/task15/obj/Debug/net6.0/task15.GeneratedMSBuildEditorConfig.editorconfig
+/Users/admin/Desktop/Homework2/task15/obj/Debug/net6.0/task15.AssemblyInfoInputs.cache
+/Users/admin/Desktop/Homework2/task15/obj/Debug/net6.0/task15.AssemblyInfo.cs
+/Users/admin/Desktop/Homework2/task15/obj/Debug/net6.0/task15.csproj.CoreCompileInputs.cache
+/Users/admin/Desktop/Homework2/task15/obj/Debug/net6.0/task15.dll
+/Users/admin/Desktop/Homework2/task15/obj/Debug/net6.0/refint/task15.dll
+/Users/admin/Desktop/Homework2/task15/obj/Debug/net6.0/task15.pdb
+/Users/admin/Desktop/Homework2/task15/obj/Debug/net6.0/task15.genruntimeconfig.cache
+/Users/admin/Desktop/Homework2/task15/obj/Debug/net6.0/ref/task15.dll
